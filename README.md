@@ -1,2 +1,6 @@
 # ClothesDryer
 This project aims to create a FOSS Clothes Dryer.
+
+The third time I was replacing my dryers heating element was a frustrating experience, not because it was difficult but all the heating elements failed in the same way. The fault didn't lie with the heating element but with the dryer design the relies on negative pressure to properly move air. That negative pressure gradient fails when the thin felt ring in the front of most dryers wears out. Moreover, my dryers has inexplicably lost the ability to keep time. How this has occurred in a digital circuit is beyond me.
+It might be obvious at this point that my dryer is a few years old and many would assume the best course of action is to buy a new one, but WHY!? The unit is structurally stable, the motor works, the fan works, with a simple fix that increased airflow over the heating element, it gets hot. Why would I produce 100 pounds of metallic waste when the control board is easily replaceable with an Arduino and some relays.
+The aim of this project is to document my own adventures in re-engineering an open source dryer and to function as a repo for anyone else to use who wants to do the same. Other appliances might come later.
